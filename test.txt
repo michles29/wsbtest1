@@ -1,2 +1,2 @@
-To jest pierwsza linijka
-To jest druga linijka!
+To jest pierwsza linijka 1
+To jest druga linijka! 2
