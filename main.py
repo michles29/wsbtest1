@@ -180,17 +180,17 @@ lista_liczb = [1,2,3,4,5, 'tekst']
 #JSON w Python
 #csv - csv.reader
 
-original = " Python string are COOL"
-lower_cased = original.lower()
-stripped = original.strip()
+# original = " Python string are COOL"
+# lower_cased = original.lower()
+# stripped = original.strip()
 
-ugly = "TiTle of MY new Book\n\n"
-print(ugly)
-pretty = ugly.strip().title()
-print(pretty)
+# ugly = "TiTle of MY new Book\n\n"
+# print(ugly)
+# pretty = ugly.strip().title()
+# print(pretty)
 
+a = 2
+b = 3
+c = 2
 
-
-
-
-
+result = 6*(a**3) - (8*(b**2))/
